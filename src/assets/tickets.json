@@ -11,6 +11,14 @@
     {
         "comprobante":"B",
         "monto":150
+    },
+    {
+        "comprobante":"A",
+        "monto":50
+    },
+    {
+        "comprobante":"A",
+        "monto":130
     }
     ]
 }
