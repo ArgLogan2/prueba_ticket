@@ -1,0 +1,16 @@
+{
+    "tickets":[
+    {
+        "comprobante":"A",
+        "monto":100
+    },
+    {
+        "comprobante":"A",
+        "monto":100
+    },
+    {
+        "comprobante":"B",
+        "monto":150
+    }
+    ]
+}
